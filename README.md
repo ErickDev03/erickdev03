@@ -1,7 +1,17 @@
-# 💫 About Me:
+# 👋 Hey, I'm Erick Sosa.
+Passionate about technology | Front-end developer | Computer Systems Engineering student <br> | Self-taught learning lover 
+| Coffee and chess in my spare time. 🚀<br><br>
 
-👋 # Hey, I'm Erick Sosa.<br>Passionate about technology | Front-end developer | Computer Systems Engineering student | Self-taught learning lover 
-| Coffee and chess in my spare time. 🚀<br><br>📚 Education<br>        - Technician in systems development and web portals Centro Educativo Manuel Acevedo Serrano Fe y Alegria (CEMAS) 2016 - 2020<br>      - Full Stack Web Development Cincinnatus Institute Of Craftsmanship (CIC) 2023 - Currently<br>      - Software Engineer Universidad Tecnológica de Santiago (UTESA) Currently<br><br>🌱 I’m currently learning<br>       - React JS<br>       - Typescript<br>       - Firebase<br>       - Tailwindcss<br><br>
+## 📚 Education      
+- Technician in systems development and web portals Centro Educativo Manuel Acevedo Serrano Fe y Alegria (CEMAS) 2016 - 2020<br>      
+- Full Stack Web Development Cincinnatus Institute Of Craftsmanship (CIC) 2023 - Currently<br>      
+- Software Engineer Universidad Tecnológica de Santiago (UTESA) Currently<br><br><br> 
+
+## 🌱 I’m currently learning<br>       
+- React JS<br>
+- Typescript<br>       
+- Firebase<br>       
+- Tailwindcss<br><br>
 
 
 ## 🌐 Socials:
